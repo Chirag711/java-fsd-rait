@@ -12,6 +12,7 @@ const Navbar = () => {
             <Link href="/" className='text-gray-600 hover:text-gray-400'>Home</Link>
             <Link href="/about" className='text-gray-600 hover:text-gray-400'>About</Link>
             <Link href="/contact" className='text-gray-600 hover:text-gray-400'>Contact</Link>
+            <Link href="/login" className='text-gray-600 hover:text-gray-400'>Login</Link>
             <ThemeToggle/>
           </div>
         </div>
