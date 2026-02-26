@@ -16,7 +16,6 @@ export default function RootLayout({ children }) {
         className={`antialiased`}
       >
         <ThemeProvider attribute="class">
-        <Navbar/>
         {children}
         </ThemeProvider>
       </body>
